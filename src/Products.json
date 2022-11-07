@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pixel 7",
+      "img": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/09/The-Design-of-Google-Pixel-7-Pro-0-26-screenshot.png",
+      "price": 499,
+      "tier": 2,
+      "isDigital": "no",
+      "description": " Introducing Pixel 7 Pro, Google’s best-of-everything phone. Powered by Google Tensor G2, it’s fast and secure, with an immersive display and amazing battery life. The best Pixel camera yet includes a telephoto lens and pro-level features like Macro Focus. And with the certified Titan M2 security chip and a built-in VPN, Pixel helps protect your personal data.₁",
+      "type": "phone"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 14",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-2-202209_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660753617560",
+      "price": 799,
+      "tier": 1,
+      "isDigital": "false",
+      "description": " Introducing Pixel 7 Pro, Google’s best-of-everything phone. Powered by Google Tensor G2, it’s fast and secure, with an immersive display and amazing battery life. The best Pixel camera yet includes a telephoto lens and pro-level features like Macro Focus. And with the certified Titan M2 security chip and a built-in VPN, Pixel helps protect your personal data.₁",
+      "type": "phone"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S22",
+      "img": "https://media.cnn.com/api/v1/images/stellar/prod/220223142400-galaxy-s22-plus-lead.jpg?q=h_2085,w_3706,x_0,y_0",
+      "price": 799,
+      "tier": 1,
+      "isDigital": "false",
+      "description": " The power of our fastest chip ever, long lasting battery, and sophisticated AI enables revolutionary night-time video that’s as clear-as-day. And, for the first time, S Pen with its increased super-powers has been embedded in Galaxy S22 Ultra’s beautifully sleek design. Today, Galaxy S22 Ultra sets an epic standard of smartphone experience.",
+      "type": "phone"
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 10 Pro",
+      "img": "https://cdn.vox-cdn.com/thumbor/msfV-DsovZ5MQ6DoWdFr7TwGYUk=/0x0:2040x1360/1200x628/filters:focal(1005x763:1006x764)/cdn.vox-cdn.com/uploads/chorus_asset/file/23337236/ajohnson_220321_5096_0001.jpg",
+      "price": 899,
+      "tier": 1,
+      "isDigital": "false",
+      "description": " The OnePlus 10 Pro is “ultra” in every aspect. Capture breath-taking photos and videos with the new OnePlus Billion Color Solution, an even wider 150° Ultra-Wide Camera, and more. The 6.7” QHD+ display portrays stunning colors for all viewing content, and also adjusts dynamically from 1Hz up to 120Hz, giving you a silky-smooth user experience. Equipped with the latest Snapdragon 8th Gen Mobile Platform and the new HyperBoost Gaming Engine, the OnePlus 10 Pro will be one of the most powerful phones for mobile gaming. Say goodbye to battery anxiety with a 65W Fast Charging (wired) or 50W Wireless Charging, getting you a day’s power in 15 minutes. Simply put, the OnePlus 10 Pro is our most powerful and advanced phone yet, delivering our very best user experience ever.",
+      "type": "phone"
+    },
+    {
+      "id": 5,
+      "name": "Samsung S95B OLED",
+      "img": "https://reviewed-com-res.cloudinary.com/image/fetch/s--1BYTQU0r--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,h_668,q_auto,w_1187/https://reviewed-production.s3.amazonaws.com/1650673676000/Goldwasser-Samsung-S95B-Hero.jpg",
+      "price": 899,
+      "tier": 1,
+      "isDigital": "false",
+      "description": " Samsung OLED TV changes the game again with 8.3 million self lit pixels and ultra powerful 4K AI Neural Processing, all for a picture so real, it’s surreal. Add on Dolby Atmos ® sound built in, the latest Smart TV apps, and a LaserSlim design and get a viewing experience that’s intensely cinematic.",
+      "type": "tv"
+    },
+    {
+      "id": 6,
+      "name": "Ipad Mini",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-select-cell-starlight-202109_FMT_WHH?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1629840738000",
+      "price": 499,
+      "tier": 2,
+      "isDigital": "false",
+      "description": " The new iPad mini. Featuring an all-screen design with an 8.3-inch Liquid Retina display.¹ Powerful A15 Bionic chip with Neural Engine. A 12MP Ultra Wide front camera with Center Stage. USB-C connectivity. Take notes, mark up documents, or capture your biggest ideas with Apple Pencil (2nd generation) that attaches magnetically and charges wirelessly.²",
+      "type": "tablet"
+    },
+    {
+      "name": "Ipad Air",
+      "description": "iPad Air lets you immerse yourself in whatever you're reading, watching, or creating. The 10.9-inch Liquid Retina display features advanced technologies like True Tone, P3 wide color, and an antireflective coating. The breakthrough M1 chip is now in iPad Air. An 8-core CPU delivers up to 60 percent faster performance than the previous generation, making iPad Air a creative and mobile gaming powerhouse. Multitask smoothly between powerful apps and play graphics-intensive games. And with M1, you can go even further with your creativity with apps like SketchUp. The 12MP Ultra-Wide front camera enables Center Stage, making video calls more natural and content creation more fun. As you move around, the camera automatically pans to keep you centered in the shot. When others join or leave the frame, the view expands or zooms in.",
+      "price": "599",
+      "isDigital": "no",
+      "type": "tablet",
+      "img": "https://www.apple.com/v/ipad-air/s/images/meta/ipad-air_specs__lfl4e10u9pmm_og.png",
+      "tier": "1",
+      "id": 7
+    },
+    {
+      "name": "Surface Pro 9",
+      "description": "Surface Pro 9 gives you the tablet flexibility you want and the laptop performance and battery life¹ you need to move through your day — all in one ultra-portable device. Now with powerful new processors, and choice of vibrant colors.",
+      "price": "1600",
+      "isDigital": "no",
+      "type": "tablet",
+      "img": "https://www.howtogeek.com/wp-content/uploads/2022/10/Surface-Pro-9-featured.jpg?height=200p&trim=2,2,2,2&crop=16:9",
+      "tier": "2",
+      "id": 8
+    },
+    {
+      "name": "Surface Go 3",
+      "description": " The most portable Surface touchscreen 2-in-1 is perfect for your everyday tasks, homework, and play. Designed to light up the best of Windows 11, Surface Go 3 is optimized for digital pen and touch, with a choice of a faster Intel Pentium or Intel Core i3 processor, plus all-day battery⁹, tablet-to-laptop versatility, and comprehensive Microsoft security.",
+      "price": "399",
+      "isDigital": "no",
+      "type": "tablet",
+      "img": "data:image/jpeg;base64,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",
+      "tier": "2",
+      "id": 9
+    },
+    {
+      "name": "Pixel 6a",
+      "description": " Meet Pixel 6a, the more affordable Google phone that adapts to you. Powered by Google Tensor, it’s super fast and secure. The battery lasts up to 72 hours with Extreme Battery Saver.***** The Pixel Camera captures the moment just how you experienced it. And with TitanM2 security, protection is built right in.",
+      "price": "449",
+      "isDigital": "no",
+      "type": "phone",
+      "img": "https://www.howtogeek.com/wp-content/uploads/2022/07/The-back-of-the-Google-Pixel-6a-held-in-a-persons-hand.jpg?height=200p&trim=2,2,2,2&crop=16:9",
+      "tier": "2",
+      "id": 10
+    },
+    {
+      "name": "Pixel Buds Pro",
+      "description": " Meet Google Pixel Buds Pro, the wireless earbuds with premium, immersive sound that adapts to you. Active Noise Cancellation with Silent Seal blocks outside sounds, so your music shines.",
+      "price": "199",
+      "isDigital": "no",
+      "type": "earbud",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WD9JCTtpmYUWjrsA_7JT2UQmzQBLooCJtQ&usqp=CAU",
+      "tier": "2",
+      "id": 11
+    },
+    {
+      "name": "AirPods",
+      "description": "The new AirPods combine intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip, AirPods now feature hands-free access to Siri using just your voice. And up to 3 hours of talk time on a single charge.¹",
+      "price": "119",
+      "isDigital": "no",
+      "type": "earbud",
+      "img": "https://www.gamerevolution.com/wp-content/uploads/sites/2/2022/05/AirPods-Pro-2-Price.png",
+      "tier": "2",
+      "id": 12
+    },
+    {
+      "name": "Hisense 55\" U7H ULED TV",
+      "description": " The 2022 Hisense U7H series is packed with features for tech, content, and gaming fans alike. ULED technology improves picture depth, clarity, color accuracy and motion delivering a unique experience only found in Hisense ULED television sets. The U7H gets a user interface and content upgrade with Google TV which can be accessed hands-free through the in-bezel microphones and, for gamers, there’s not only 480 motion rate but 4k 120Hz variable refresh rate, Dolby Vision Gaming, FreeSync Premium and auto-low latency game mode to maximize the next-generation console experience. The Hisense U7H’s picture quality and extensive list of features make it one of the most affordable premium televisions available. And new for 2022, it comes with a 2-year warranty.",
+      "price": "499",
+      "isDigital": "no",
+      "type": "tv",
+      "img": "https://m.media-amazon.com/images/I/51oD0sA2nbL._AC_.jpg",
+      "tier": "2",
+      "id": 13
+    },
+    {
+      "name": "Samsung 75\" TU690T LED TV",
+      "description": " See how Crystal UHD with Smart TV elevates what you watch—at a value you’ll love. Go beyond HDTV to enjoy your content in 4K resolution, and in PurColor. And with Smart TV powered by Tizenbuilt in, it’s easy to find and stream the latest shows and movies in just a few clicks.",
+      "price": "579",
+      "isDigital": "no",
+      "type": "tv",
+      "img": "data:image/jpeg;base64,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",
+      "tier": "1",
+      "id": 14
+    },
+    {
+      "name": "iPhone XR",
+      "description": " Liquid Retina - Introducing the most advanced LCD in the industry. All-new Liquid Retina. Innovative engineering allows to stretch the display into the corners. The result is an all-screen design - our largest LCD ever in an iPhone - that still fits comfortably in your hand. A picture is worth a trillion operations. The iPhone Xr camera system harnesses the unprecedented power of the Neural Engine and its ability to perform five trillion operations per second. Together with the Apple-designed ISP, it works like the world's fastest photographer's assistant to help turn your pictures into showstoppers. A whole new level of intelligence. The A12 Bionic, with our next-generation Neural Engine, delivers incredible performance. It uses real-time machine learning to transform the way you experience photos, gaming, augmented reality, and more. Security made simple. Face ID reinvented the way we unlock, log in, and pay. Some of our most sophisticated technologies - the TRUEDepth camera system, the Secure Enclave, and the Neural Engine - make it the most secure facial authentication ever in a smartphone. And even faster and easier to use. Resists water and dust. The most durable front glass in a smartphone, sealed and precision-fitted with the aerospace-grade aluminum band, helps create an enclosure that's water resistant up to 1 meter for 30 minutes. iPhone Xr even resists spills from Coffee, Tea, Soda, and more.",
+      "price": "319",
+      "isDigital": "no",
+      "type": "phone",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvir8mZ_cpI_tDSqOGI7oUK3TXm7LUJY-vg&usqp=CAU",
+      "tier": "2",
+      "id": 16
+    },
+    {
+      "name": "Gift Card",
+      "description": "$100 gift card to put towards any of out products!",
+      "price": "100",
+      "isDigital": "yes",
+      "type": "card",
+      "img": "",
+      "tier": "2",
+      "id": 17
+    }
+  ]
+}
