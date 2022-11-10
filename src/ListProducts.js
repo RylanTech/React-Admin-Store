@@ -11,7 +11,7 @@ function ListProducts() {
     } else {
       return products.map((pro) => {
         return  (
-        <Card style={{ width: '16rem', margin: "10px", display: 'inline-block'}}>
+        <Card style={{ width: '16rem', margin: "10px", display: 'inline-block', backgroundColor: "rgb(100, 200, 150)"}}>
           <Card.Img variant="top" src={pro.img} />
           <Card.Body>
             <Card.Title>{pro.name}</Card.Title>

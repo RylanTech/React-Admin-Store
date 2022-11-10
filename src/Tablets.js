@@ -13,7 +13,7 @@ function Tablets() {
           return products.map((pro) => {
             if (pro.type === type) {
                 return (
-                    <Card key={pro.id} style={{ width: '17rem', margin: "10px", display: 'inline-block'}}>
+                    <Card key={pro.id} style={{ width: '17rem', margin: "10px", display: 'inline-block', backgroundColor: "rgb(100, 200, 150)"}}>
                     <Card.Img variant="top" src={pro.img} />
                     <Card.Body>
                         <Card.Title>{pro.name}</Card.Title>

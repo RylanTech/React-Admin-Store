@@ -26,7 +26,7 @@ function Search() {
         if (elemnt) {
             return elemnt.map((ele) => {
                 return (
-                <ListGroup.Item>
+                <ListGroup.Item style={{backgroundColor: "rgb(100, 200, 150)"}}>
                     <img src={ele.img} style={{width: "300px"}}/>
                     <div style={{display: "inline-block", margin: "10px"}}>
                     <h4>{ele.name}</h4>

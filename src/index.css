@@ -1,3 +1,20 @@
 body {
     background-color: rgb(35, 35, 35);
 }
+footer {
+    background-color: black;
+}
+.wt {
+    color: white;
+}
+.f {
+    margin-top: 100px;
+    padding: 100px 0px 20px 0px;
+}
+.navbar {
+    background-color: rgb(41, 50, 46);
+}
+.btn {
+    background-color: rgb(100, 200, 150);
+    border-color: aquamarine;
+}
