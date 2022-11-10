@@ -1,5 +1,6 @@
 body {
     background-color: rgb(35, 35, 35);
+    margin-bottom: 100px;
 }
 footer {
     background-color: black;
@@ -7,10 +8,16 @@ footer {
 .wt {
     color: white;
 }
-.f {
-    margin-top: 100px;
-    padding: 100px 0px 20px 0px;
-}
+
+.f{
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
 .navbar {
     background-color: rgb(41, 50, 46);
 }

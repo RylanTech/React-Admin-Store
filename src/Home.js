@@ -29,7 +29,7 @@ function Home() {
               <p className="wt">
                 Amazing Products!
                 <br/>
-                Web designer: Rylan Workman
+                Web Designer: Rylan Workman
               </p>
             </div>
           </center>
