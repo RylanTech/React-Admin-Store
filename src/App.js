@@ -8,9 +8,7 @@ import ProductDetails from './ProductDetails';
 import Add from './Add';
 import Edit from './Edit';
 import Search from './Search';
-import Tablets from './Tablets';
-import TVs from './TVs';
-import Phones from './Phones';
+import Type from './Type';
 
 function App() {
   return (
@@ -28,9 +26,9 @@ function App() {
               <Route path=":productId/edit" element={<Edit />}/>
             </Route>
             <Route path='/add' element={<Add/>}/>
-            <Route path='/tablets' element={<Tablets/>}/>
-            <Route path='/phones' element={<Phones/>}/>
-            <Route path='/tvs' element={<TVs/>}/>
+            <Route path='/tablets' element={<Type/>}/>
+            <Route path='/phones' element={<Type/>}/>
+            <Route path='/tvs' element={<Type/>}/>
             <Route path='*' element={<h1>error2</h1>}></Route>
           </Route>
           <Route path='*' element={<h1>error1</h1>}></Route>

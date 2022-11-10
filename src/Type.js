@@ -1,10 +1,14 @@
-import React from 'react'
-import { Link, Outlet } from 'react-router-dom'
+import React, { useContext, useEffect } from 'react'
+import { Link, Outlet, useParams } from 'react-router-dom'
 import { ProductContext } from "./ProductContext"
 import { Card, Container, Row } from 'react-bootstrap'
 
-function Phones() {
-    let type = "phone"
+function Tablets() {
+    let urlTag = document.location.pathname.split('/')[1]
+    let type = urlTag.split("")
+    type.pop()
+    type = type.join("")
+    console.log(type)
 
     function list(products) {
         if (products === undefined) {
@@ -50,4 +54,4 @@ function Phones() {
         </>
       )
 }
-export default Phones
+export default Tablets
