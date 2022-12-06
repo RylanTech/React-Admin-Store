@@ -1,6 +1,6 @@
 # React-Admin-Store
 Description:
-This project is a front end store management site. It is meant to represent products and have the ability to edit, delete and add them as needed.
+This project is a front end store management site. It is meant to represent products and have the ability to edit, delete and add products as needed.
 
 To run this site, you will need to run a few things.
 
